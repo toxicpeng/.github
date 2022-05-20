@@ -1,4 +1,4 @@
-## Hi Peng-guins & others
+## Hi Peng-guins 🐧 & others
 
 This is the Peng Group repository, hereing you'll find:
 
