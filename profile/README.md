@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hi Peng-guins & others
 
+This is the Peng Group repository, hereing you'll find:
 
+📑 code used for publications and projects 
+📝 Gist, code snippets for routine work
+📈 documents for lab operations and routine analysis (i.e. Non-target MS)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+To get started, check out [*R4EnvChem*](https://uoftchem-teaching.github.io/R4EnvChem/), an online textbook written by many of our group members to help get you started using *R*, *RStudio*, and a more data science approach to Environmental Chemistry. 
 
