@@ -1,6 +1,6 @@
 ## Hi Peng-guins 🐧 & others
 
-This is the Peng Group repository, hereing you'll find:
+This is the Peng Group repository, herein you'll find:
 
 - 📑 code used for publications and projects 
 - 📝 See the `Misc Code` repo for small snippets of code used in routine lab operations. 
